@@ -1,4 +1,4 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
