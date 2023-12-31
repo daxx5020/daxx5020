@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Daksh Makwana</h1>
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+
+<h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 
