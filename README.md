@@ -1,4 +1,4 @@
-![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
