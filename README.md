@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
