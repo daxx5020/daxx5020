@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
